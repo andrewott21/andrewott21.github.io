@@ -16,10 +16,12 @@ html {
         padding:2px;
         font-size:30 ;
         display: block;
-        color:green
+        color:green;
+        text-align: center;
     }
 
-    img {width:200px;height:auto;}
+    img {width:200px;height:auto;
+      text-align: center; }
     nav {
         float: left;
     }
