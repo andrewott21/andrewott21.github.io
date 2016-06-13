@@ -6,6 +6,7 @@ html {
     body {
        width: 800px;
        height: 100%;
+      text-align: center;
     }
 
     .wrapimage{ float:right;
@@ -23,22 +24,22 @@ html {
     img {width:200px;height:auto;
       text-align: center; }
     nav {
-        float: left;
+        text-align: center;;
     }
     nav ul {
         padding: ;
-        float: left;
+        text-align: center;;
         border-bottom: ;
         list-style-type: none;
     }
     nav li {
-        float: left;
+        text-align: center;
     }
     nav li a {
         display: block;
         height: 25px;
         padding: 12px 18px 8px 18px;
-        vertical-align: middle;
+        text-align: center;;
     }
     a {
         color: ;
@@ -46,7 +47,7 @@ html {
     section {
         width: 73%;
         display: inline-block;
-        float: left;
+        text-align: center;;
     }
     aside {
         width: 17%;
