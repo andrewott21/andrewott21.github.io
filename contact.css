@@ -5,8 +5,9 @@ html {
      }
      title {
        color: black;
-
      }
+     .wrapimage{ align-items: center
+               margin:10px;}
      body {
         height: 100%;
         text-align: center;
@@ -17,6 +18,8 @@ html {
          background-color: yellow;
          text-align: center;
      }
+     img {width:200px;height:auto;
+       text-align: center; }
      nav {
        width: 100%;
        background-color: black;
