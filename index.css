@@ -19,9 +19,11 @@ html {
        font-size: 1.5em;
        display: block;
    }
-   
+
    nav {
      width: 100%;
+     background-color: black;
+     color: yellow;
    }
 
    nav ul {
@@ -35,7 +37,7 @@ html {
      display: inline-block;
    }
    nav li a {
-       color: green;
+       color: yellow;
        font-weight: bold;
        font-size: 1.6em;
        height: 25px;
@@ -48,15 +50,21 @@ html {
        margin: 0 auto;
        padding:;
        text-align: center;
+       background-color: black;
+       color: yellow
    }
 
 
    h2 {
       text-align: center;
       text-transform: uppercase;
+      background-color: black;
+      color: yellow;
     }
 
   article {
+    color: yellow;
+    background-color: black;
      padding: 20px;
    }
 
