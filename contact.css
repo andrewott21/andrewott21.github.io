@@ -49,14 +49,7 @@ html {
            padding: 12px 18px 8px 18px;
            background-color: transparent;
        }
-     }
-     footer {
-         width: 790px;
-         background-color:yellow;
-         color:;
-         clear: both;
-         display: block;
-     }
+
      form {
        background-color: transparent;
 }
@@ -69,5 +62,7 @@ html {
          color: yellow;
          background-color: black;
        }
-       .ads {
-         color: yellow;
+       footer {
+           background-color:yellow;
+           color:black;
+       }
