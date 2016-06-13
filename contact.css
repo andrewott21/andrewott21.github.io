@@ -21,33 +21,34 @@ html {
      }
      img {width:200px;height:auto;
        text-align: center; }
-     nav {
-       width: 100%;
-       background-color: black;
-       color: yellow;
-     }
-
-     nav ul {
-        text-align: center;
-         padding: 0 25%;
-         margin-bottom: 25px;
-         list-style-type: none;
+       nav {
+         width: 100%;
          background-color: transparent;
-         color: yellow
-     }
-     nav li {
-       margin: 0 auto;
-       display: inline-block;
-       background-color: transparent;;
-       color: yellow;
-     }
-     nav li a {
          color: yellow;
-         font-weight: bold;
-         font-size: 1.6em;
-         height: 25px;
-         padding: 12px 18px 8px 18px;
-         background-color: transparent;;
+       }
+
+       nav ul {
+          text-align: center;
+           padding: 0 25%;
+           margin-bottom: 25px;
+           list-style-type: none;
+           background-color: transparent;
+           color: yellow
+       }
+       nav li {
+         margin: 0 auto;
+         display: inline-block;
+         background-color: transparent;
+         color: yellow;
+       }
+       nav li a {
+           color: yellow;
+           font-weight: bold;
+           font-size: 1.6em;
+           height: 25px;
+           padding: 12px 18px 8px 18px;
+           background-color: transparent;
+       }
      }
      footer {
          width: 790px;
