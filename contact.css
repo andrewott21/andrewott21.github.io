@@ -17,6 +17,7 @@ html {
       head {
          background-color: yellow;
          text-align: center;
+         text-transform: uppercase;
      }
      img {width:200px;height:auto;
        text-align: center; }
@@ -31,13 +32,13 @@ html {
          padding: 0 25%;
          margin-bottom: 25px;
          list-style-type: none;
-         background-color: black;
+         background-color: transparent;
          color: yellow
      }
      nav li {
        margin: 0 auto;
        display: inline-block;
-       background-color: black;
+       background-color: transparent;;
        color: yellow;
      }
      nav li a {
@@ -46,7 +47,7 @@ html {
          font-size: 1.6em;
          height: 25px;
          padding: 12px 18px 8px 18px;
-         background-color: black;
+         background-color: transparent;;
      }
      footer {
          width: 790px;
