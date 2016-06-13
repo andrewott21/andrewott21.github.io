@@ -23,24 +23,34 @@ html {
 
     img {width:200px;height:auto;
       text-align: center; }
-    nav {
-        text-align: center;;
-    }
-    nav ul {
-        padding: ;
-        text-align: center;;
-        border-bottom: ;
-        list-style-type: none;
-    }
-    nav li {
-        text-align: center;
-    }
-    nav li a {
-        display: block;
-        height: 25px;
-        padding: 12px 18px 8px 18px;
-        text-align: center;;
-    }
+      nav {
+        width: 100%;
+        background-color: black;
+        color: yellow;
+      }
+
+      nav ul {
+         text-align: center;
+          padding: 0 25%;
+          margin-bottom: 25px;
+          list-style-type: none;
+          background-color: black;
+          color: yellow
+      }
+      nav li {
+        margin: 0 auto;
+        display: inline-block;
+        background-color: black;
+        color: yellow;
+      }
+      nav li a {
+          color: yellow;
+          font-weight: bold;
+          font-size: 1.6em;
+          height: 25px;
+          padding: 12px 18px 8px 18px;
+          background-color: black
+      }
     a {
         color: ;
     }
