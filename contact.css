@@ -1,15 +1,13 @@
 html {
        height: 100%;
+       text-align: center;
      }
      body {
-        width: 800px;
         height: 100%;
+        text-align: center;
            }
       header {
          background-color: grey;
-         padding: 5px;
-         font-size: ;
-         display: block;
          text-align: center;
      }
      nav {
@@ -37,8 +35,7 @@ html {
      }
      section {
          width: 73%;
-         display: inline-block;
-         float: left;
+         text-align: center;
      }
      aside {
          width: 17%;
