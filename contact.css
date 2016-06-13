@@ -14,11 +14,17 @@ html {
         color: yellow;
            }
 
-      head {
-         background-color: yellow;
-         text-align: center;
-         text-transform: uppercase;
-     }
+           head {
+               width: 100%;
+               color: yellow;
+               text-align: center;
+               text-transform: uppercase;
+               margin: 0 auto;
+               background-color: black;
+               padding: 5px;
+               font-size: 1.5em;
+               display: block;
+           }
      img {width:200px;height:auto;
        text-align: center; }
        nav {
