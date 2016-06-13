@@ -15,7 +15,7 @@ html {
        width: 100%;
        color: yellow;
        text-align: center;
-       text-transform: uppercase;
+       text-transform: lowercase;;
        margin: 0 auto;
        background-color: black;
        padding: 5px;
