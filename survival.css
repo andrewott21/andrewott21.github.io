@@ -3,8 +3,7 @@
 html {
       height: 100%;
       background-color: black;
-      text-align: center;
-      object-position: center;
+      align-self: center;
     }
     body {
        width: 800px;
@@ -60,7 +59,6 @@ html {
     }
     section {
         width: 73%;
-        display: inline-block;
         text-align: center;;
         color: yellow;
     }
