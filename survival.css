@@ -11,7 +11,7 @@ html {
       color: yellow
     }
 
-    .wrapimage{ float:right;
+    .wrapimage{ align-items: center
               margin:10px;}
 
     header {
