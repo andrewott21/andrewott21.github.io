@@ -14,9 +14,7 @@ html {
 
     header {
         background-color:black ;
-        padding:2px;
-        font-size:30 ;
-        display: block;
+        align-items: center;
         color:yellow;
         text-align: center;
     }
@@ -55,25 +53,16 @@ html {
         color: ;
     }
     section {
-        width: 73%;
         text-align: center;;
         color: yellow;
     }
     aside {
-        width: 17%;
-        display: inline-block;
-        background-color:;
-        padding:;
-        min-height: 100%;
         color: yellow;
     }
     aside ul {
         list-style-type: none;
     }
     footer {
-        width: 790px;
         background-color:yellow;
         color:black;
-        clear: both;
-        display: block;
     }
