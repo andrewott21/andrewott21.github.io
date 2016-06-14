@@ -67,7 +67,7 @@ html {
 
    h2 {
       text-align: center;
-      text-transform: lowercase;
+      text-transform: none;;
       background-color: black;
       color: yellow;
     }
