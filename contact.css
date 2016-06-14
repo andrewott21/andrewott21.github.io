@@ -6,8 +6,10 @@ html {
      title {
        color: black;
      }
-     .wrapimage{ align-items: center
-               margin:10px;}
+     .wrapimage{
+               align-items: center
+               margin:10px;
+             }
                body {
                 width: 100%;
                 height: 100%;
@@ -26,6 +28,9 @@ html {
                padding: 5px;
                font-size: 1.5em;
                display: block;
+           }
+           <h2> {
+             text-transform: none;
            }
      img {width:200px;height:auto;
        text-align: center; }
@@ -57,9 +62,6 @@ html {
            padding: 12px 18px 8px 18px;
            background-color: transparent;
        }
-<p> {
-text-align: center;
-
 
 }
      form {

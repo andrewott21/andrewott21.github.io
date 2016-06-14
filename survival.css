@@ -24,6 +24,10 @@ html {
                   display: block;
               }
 
+              <h2> {
+                text-transform: none;
+              }
+
     img {width:200px;height:auto;
       text-align: center; }
       nav {
